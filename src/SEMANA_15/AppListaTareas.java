@@ -182,5 +182,5 @@ public class AppListaTareas extends JFrame { // Creo la clase principal que exti
                 new AppListaTareas().setVisible(true); // Creo y muestro la ventana.
             }
         });
-    }
+    }  //Fin
 }
